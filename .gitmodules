@@ -10,3 +10,6 @@
 [submodule ".config/zsh/zsh.d/zsh-autosuggestions"]
 	path = .config/zsh/zsh.d/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions.git
+[submodule ".config/zsh/zsh.d/ohmyzsh"]
+	path = .config/zsh/zsh.d/ohmyzsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git

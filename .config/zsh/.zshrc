@@ -9,6 +9,7 @@ fi
 plugins=(
   "$XDG_CONFIG_HOME/zsh/zsh.d/F-Sy-H/F-Sy-H.plugin.zsh"
   "$XDG_CONFIG_HOME/zsh/zsh.d/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh"
+  "$XDG_CONFIG_HOME/zsh/zsh.d/ohmyzsh/plugins/systemd/systemd.plugin.zsh"
 )
 for plugin in $plugins; do
     test -f "$plugin" && source "$plugin"
