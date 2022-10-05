@@ -4,3 +4,6 @@
 [submodule ".config/zsh/zsh.d/fsh"]
 	path = .config/zsh/zsh.d/fsh
 	url = https://github.com/z-shell/F-Sy-H.git
+[submodule ".config/zsh/zsh.d/F-Sy-H"]
+	path = .config/zsh/zsh.d/F-Sy-H
+	url = https://github.com/z-shell/F-Sy-H.git

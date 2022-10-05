@@ -7,7 +7,7 @@ fi
 
 # plugins {{{
 plugins=(
-  "$XDG_CONFIG_HOME/zsh/zsh.d/fsh/F-Sy-H.plugin.zsh"
+  "$XDG_CONFIG_HOME/zsh/zsh.d/F-Sy-H/F-Sy-H.plugin.zsh"
 )
 for plugin in $plugins; do
     test -f "$plugin" && source "$plugin"
