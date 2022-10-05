@@ -1,2 +1,7 @@
-.cache
+.*
+!.zshenv
+!.config/*
+!.config
 .config/zsh/*zcompdump*
+.config/neofetch
+.config/htop

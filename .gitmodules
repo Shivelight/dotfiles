@@ -7,3 +7,6 @@
 [submodule ".config/zsh/zsh.d/F-Sy-H"]
 	path = .config/zsh/zsh.d/F-Sy-H
 	url = https://github.com/z-shell/F-Sy-H.git
+[submodule ".config/zsh/zsh.d/zsh-autosuggestions"]
+	path = .config/zsh/zsh.d/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions.git
