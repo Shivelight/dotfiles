@@ -1,0 +1,6 @@
+[submodule ".config/zsh/zsh.d/powerlevel10k"]
+	path = .config/zsh/zsh.d/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
+[submodule ".config/zsh/zsh.d/fsh"]
+	path = .config/zsh/zsh.d/fsh
+	url = https://github.com/z-shell/F-Sy-H.git
