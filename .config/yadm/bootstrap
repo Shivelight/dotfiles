@@ -2,4 +2,4 @@
 
 cd "$HOME"
 echo "Init submodules"
-yadm submodule update --recursive --init
+yadm submodule update --depth 1 --recursive --init
