@@ -116,7 +116,15 @@ source $XDG_CONFIG_HOME/zsh/zsh.d/powerlevel10k/powerlevel10k.zsh-theme
 # }}}
 
 # alias {{{
-alias daym="yadm"
+alias config="yadm"
+alias tmux="tmux -2"
+alias zshrc="${=EDITOR} ${ZDOTDIR:-$HOME}/.zshrc" # Quick access to the .zshrc file
+alias pacdiff="sudo -E pacdiff"
+alias grep="grep --color"
+alias ip="ip -color=auto"
+alias ls="ls --color=auto"
+alias la="ls -lAFh"
+alias ldot="ls -ld .*"
 # }}}
 
 # zstyle {{{

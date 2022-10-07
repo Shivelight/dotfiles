@@ -5,3 +5,5 @@
 .config/zsh/*zcompdump*
 .config/neofetch
 .config/htop
+
+repo
