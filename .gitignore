@@ -1,5 +1,6 @@
 .*
 !.zshenv
+!.github
 !.config/*
 !.config
 .config/zsh/*zcompdump*
