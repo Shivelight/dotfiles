@@ -12,9 +12,12 @@ path=(
 	"$path[@]"
 )
 export PATH
+export EDITOR="micro"
 
 # less
 export LESSHISTFILE="$XDG_CACHE_HOME/lesshst"
 
-export EDITOR="micro"
+# docker
+export DOCKER_CONFIG="$XDG_CONFIG_HOME"/docker
+
 export ANDROID_SDK_ROOT="$HOME/Android/Sdk"
