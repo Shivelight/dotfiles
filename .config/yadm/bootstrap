@@ -3,3 +3,6 @@
 cd "$HOME"
 echo "Init submodules"
 yadm submodule update --depth 1 --recursive --init
+
+echo "Create zsh data directory (if not exists)"
+mkdir -p $HOME/.local/share/zsh
